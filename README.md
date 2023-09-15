@@ -1,6 +1,6 @@
 # STARS-BotProject
 
-##Data Collection:
+#Data Collection:
 
 Collect real-time and historical stock price data. You can use APIs provided by financial data providers like Alpha Vantage, Yahoo Finance, or IEX Cloud.
 
